@@ -7,7 +7,7 @@ splashScreen.addEventListener('click',()=>{
   },610)
 })
 
-function nigga(){  var audio = new Audio("assets/music/users.mp3");
+function nigga(){  var audio = new Audio("assets/music/die.mp3");
 
 audio.oncanplaythrough = function(){
 audio.play();
